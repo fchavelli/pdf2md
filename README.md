@@ -32,14 +32,14 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/pdf2md.git
+git clone https://github.com/fchavelli/pdf2md.git
 cd pdf2md
 
 # Install (editable mode recommended for development)
 pip install -e .
 
 # — or install directly from the repo —
-pip install git+https://github.com/your-username/pdf2md.git
+pip install git+https://github.com/fchavelli/pdf2md.git
 ```
 
 ### 2. Configure
@@ -77,7 +77,7 @@ pip install pdf2md
 ### From source
 
 ```bash
-git clone https://github.com/your-username/pdf2md.git
+git clone https://github.com/fchavelli/pdf2md.git
 cd pdf2md
 pip install .
 ```
